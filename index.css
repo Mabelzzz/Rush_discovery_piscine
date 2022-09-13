@@ -1,0 +1,16 @@
+body {
+    margin-top: 40vh;
+    text-align: center;
+}
+.homepage button{
+    background: linear-gradient( #bface0 15%, #a084ca 75%, #645caa 100%);
+    color: white;
+    border: none;
+    width: auto;
+    height: auto;
+    border-radius: 1rem;
+    font-size: 1.5rem;
+    top: 50%;
+    padding: 1.5vh 1.5rem 1.5vh 1.5rem;
+    margin: 1.5rem;
+}
